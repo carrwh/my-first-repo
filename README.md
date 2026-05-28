@@ -1,4 +1,5 @@
 # my-first-repo
+I will learn prompt engineering basics.
 
 A practice sandbox for the **AWS MLU Faculty Fellowship** at Delaware State University, College of Agriculture, Science & Technology.
 
